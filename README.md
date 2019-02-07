@@ -68,6 +68,10 @@ note: If you're using mongo shell 2.4.x, use the following to create your user:
 ### Install node modules
 
     cd explorer && npm install --production
+ 
+(If using root add:)
+    
+    --unsafe-perm=true --allow-root
 
 ### Configure
 
