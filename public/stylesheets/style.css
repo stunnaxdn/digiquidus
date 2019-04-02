@@ -1,6 +1,7 @@
 body {
   padding: 80px 40px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: #19005c
  /* background-image: url('/images/background2.png');*/
 }
 
@@ -119,19 +120,19 @@ tr {
 }
 
 .label a:link {
-	color: #ffffff;
+	color: #19005c;
 }
 
 .label a:visited {
-	color: #ffffff;
+	color: #db1ec3;
 }
 
 .label a:hover {
-	color: #ffffff;
+	color: #db1ec3;
 }
 
 .label a:active {
-	color: #ffffff;
+	color: #19005c;
 }
 
 @media(max-width:767px){
